@@ -1,9 +1,9 @@
-# Omur.js Fading Out Guide()
+# Omur.js Fading Out Guide
 
 This repo is dedicated to our front-end dev in our company. Main purpose of the project is having fun, actually so much fun.
 
 <p align="center">
-<img align="center" src="http://gph.is/1ryBBDQ?tc=1" width="100%" />
+<img align="center" src="omur.gif" width="100%" />
 </p>
 
 # How to Use #
